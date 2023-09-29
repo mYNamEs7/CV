@@ -24,8 +24,6 @@
   - Понимание основных принципов рендернига
   - Уменьшение количества Draw Calls
 
-- Был опыт работы с ECS и Job System
-
 - ### Сторонние SDK
   - Внедрение UnityAds
   - Внедрение Firebase Analytics
@@ -42,3 +40,6 @@
     - Netcode for gameobjects
     - Lobby
     - Relay
+
+- ### Другое
+  - Был опыт работы с ECS и Job System
