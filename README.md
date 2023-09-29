@@ -37,7 +37,6 @@
  
 - ### Мультиплеер
   - Создание мультиплеера с помощью:
-    
     - Netcode for gameobjects
     - Lobby
     - Relay
