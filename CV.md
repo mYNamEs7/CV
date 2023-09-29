@@ -14,7 +14,7 @@
 
 - Rise Up - самый быстрореализуемый проект.
 
-  Скачать на Android
+  [Скачать на Android](https://github.com/mYNamEs7/CV/raw/main/Projects/Games/Rise%20Up.apk)
   
   Посмотреть геймплей
 
