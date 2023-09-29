@@ -1,1 +1,4 @@
+### Игры, разработанные в период 01.2023 - 08.2023
 
+- Free Flight - игра готова к публикации на платформах iOS и Android. Разработана с использованием плагинов Zenject и DoTween. Внедрены UnityAds и Firebase Analitycs.
+  Скачать на Android
