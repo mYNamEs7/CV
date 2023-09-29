@@ -2,7 +2,7 @@
 
 - Free Flight - полностью законченная игра, готова к публикации на платформах iOS и Android. Разработана с использованием плагинов Zenject и DoTween. Внедрены UnityAds и Firebase Analitycs.
 
-  [Скачать на Android](https://rawgithub.com/)
+  [Скачать на Android](https://rawgithub.com/mYNamEs7/CV/blob/fffbaa5d9f99cb2ead559120a24824cc94aaca06/Projects/_SwingLoops.apk)
   
   Посмотреть геймплей
 
