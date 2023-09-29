@@ -4,19 +4,19 @@
 
   [Скачать для Android](https://github.com/mYNamEs7/CV/raw/main/Projects/Games/_SwingLoops.apk)
   
-  Посмотреть геймплей
+  [Посмотреть геймплей](https://github.com/mYNamEs7/CV/raw/main/Projects/Videos/FreeFlight.mp4)
 
 - Fall Guys - "полноценный" клон игры Fall Guys с реализованным мультиплеером. Мультиплеер реализован с помощью Netcode for gameobjects, Relay и Lobby.
 
   [Скачать для Android](https://github.com/mYNamEs7/CV/raw/main/Projects/Games/Fall%20Guys.apk)
   
-  Посмотреть геймплей
+  [Посмотреть геймплей](https://github.com/mYNamEs7/CV/raw/main/Projects/Videos/FallGuys.mp4)
 
 - Rise Up - самый быстрореализуемый проект.
 
   [Скачать для Android](https://github.com/mYNamEs7/CV/raw/main/Projects/Games/Rise%20Up.apk)
   
-  Посмотреть геймплей
+  [Посмотреть геймплей](https://github.com/mYNamEs7/CV/raw/main/Projects/Videos/RiseUp.mp4)
 
 ### Игры, разработанные в начале обучения Unity
 
@@ -24,12 +24,12 @@
 
   [Скачать для Android](https://github.com/mYNamEs7/CV/raw/main/Projects/Games/BrawlStars.apk)
   
-  Посмотреть геймплей
+  [Посмотреть геймплей](https://github.com/mYNamEs7/CV/raw/main/Projects/Videos/BrawlStars.mp4)
 
 - Игра за лучника от третьего лица
 
   [Скачать для Windows](Projects/Games/Build)
 
-  Посмотреть геймплей
+  [Посмотреть геймплей](https://github.com/mYNamEs7/CV/raw/main/Projects/Videos/Archer.mp4)
 
 - Много других проектов, не доведенных до более менее приличного состояния
