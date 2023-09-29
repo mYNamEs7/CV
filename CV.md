@@ -22,7 +22,7 @@
 
 - Игра в жанре Roguelike с видом сверху, по геймплею похожая на Brawl Stars.
 
-  Скачать для Android
+  [Скачать для Android](https://github.com/mYNamEs7/CV/raw/main/Projects/Games/BrawlStars.apk)
   
   Посмотреть геймплей
 
