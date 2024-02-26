@@ -18,7 +18,7 @@
   
   [Посмотреть геймплей](https://github.com/mYNamEs7/CV/raw/main/Projects/Videos/RiseUp.mp4)
 
-### Игры, разработанные в начале обучения Unity
+### Игры, разработанные в процессе изучения Unity
 
 - Игра в жанре Roguelike с видом сверху, по геймплею похожая на Brawl Stars.
 
