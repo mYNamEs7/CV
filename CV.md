@@ -6,7 +6,7 @@
   
   [Посмотреть геймплей](https://github.com/mYNamEs7/CV/raw/main/Projects/Videos/FreeFlight.mp4)
 
-- Fall Guys - "полноценный" клон игры Fall Guys с реализованным мультиплеером. Мультиплеер реализован с помощью Netcode for gameobjects, Relay и Lobby.
+- Fall Guys - клон игры Fall Guys с реализованным мультиплеером. Мультиплеер реализован с помощью Netcode for gameobjects, Relay и Lobby.
 
   [Скачать для Android](https://github.com/mYNamEs7/CV/raw/main/Projects/Games/Fall%20Guys.apk)
   
