@@ -5,8 +5,7 @@
 ## Чем я занимаюсь
 
 - Создание сайтов (backend + frontend) на Python (FastAPI) + JavaScript (React) ([код сайта для ознакомления](https://github.com/mYNamEs7/freelance-crm))
-- Unity (см. [выпущенные проекты, которыми я горжусь](Main-Projects.md), [Open Source проекты](OpenSourceProjects.md) и [видео геймплея моих pet-проектов](CV.md))
-- C#
+- Создание игр на игровом движке Unity + C# (см. [выпущенные проекты, которыми я горжусь](Main-Projects.md), [Open Source проекты](OpenSourceProjects.md) и [видео геймплея моих pet-проектов](CV.md))
 
 ## Навыки
 
