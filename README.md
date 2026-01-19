@@ -4,7 +4,7 @@
 
 ## Основное занятие
 
-- Unity (см. [разработанные](CV.md) и [выпущенные](Games.md) мною проекты, а также [Open Source проекты](OpenSourceProjects.md))
+- Unity (см. [разработанные](CV.md) и [выпущенные, которыми я горжусь](Main-Projects.md) мною проекты, а также [Open Source проекты](OpenSourceProjects.md))
 - C#
 
 ## Навыки
